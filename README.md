@@ -1,2 +1,0 @@
-# fitsyn.io
-Website Code
